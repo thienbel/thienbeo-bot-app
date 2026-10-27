@@ -1,1 +1,0 @@
-# thienbeo-bot-app
